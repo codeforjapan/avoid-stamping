@@ -1,6 +1,6 @@
 このサイトでは、主に行政を対象に、押印手続きを見直していく運動を行っています。
 
-誰でも運動に参加できます。サイトや運動の改善にご意見のある方は、[こちら]からぜひご意見をお寄せください。（GitHubのユーザ登録が必要です。）
+誰でも運動に参加できます。サイトや運動の改善にご意見のある方は、[こちら](https://github.com/codeforjapan/avoid-stamping/issues)からぜひご意見をお寄せください。（GitHubのユーザ登録が必要です。）
 サイトの運営や修正等にご協力頂ける場合、[Code for Japan Slack](https://cfjslackin.herokuapp.com/) の、`avoid-stamping` チャンネルにぜひご参加ください。
 
 ## 運動の方法
