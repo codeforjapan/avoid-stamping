@@ -1,0 +1,6 @@
+[submodule "mediumish"]
+	path = mediumish
+	url = https://github.com/lgaida/mediumish-gohugo-theme
+[submodule "themes/whisper"]
+	path = themes/whisper
+	url = https://github.com/jugglerx/hugo-whisper-theme.git
