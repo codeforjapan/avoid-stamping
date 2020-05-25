@@ -7414,7 +7414,7 @@ p {
   @media (min-width: 576px) {
     .logo {
       display: block;
-      width: 70px; } }
+      width: 150px; } }
   .logo img {
     width: 100%;
     height: auto; }
@@ -7803,29 +7803,27 @@ p {
 .content .header-anchor:hover {
   opacity: 1; }
 
-.page-home {
-  text-align: center; }
-  .page-home .title {
-    font-weight: lighter;
-    font-family: "Roboto", Arial, sans-serif, -apple-system; }
-  .page-home p {
-    margin: 0 auto;
-    font-size: 1.2rem;
-    font-weight: lighter;
-    margin-bottom: 40px; }
-    @media (min-width: 768px) {
-      .page-home p {
-        width: 80%; } }
-    @media (min-width: 992px) {
-      .page-home p {
-        width: 60%; } }
-  .page-home .terminal {
-    border-radius: 3px;
-    margin: 0 auto;
-    margin-top: -200px; }
-    .page-home .terminal img {
-      width: 100%;
-      height: auto; }
+.page-home .title {
+  font-weight: lighter;
+  font-family: "Roboto", Arial, sans-serif, -apple-system; }
+
+.page-home .content {
+  margin-left: 10%;
+  margin-right: 10%; }
+
+.page-home p {
+  margin: 0 auto;
+  font-size: 1.2rem;
+  font-weight: lighter;
+  margin-bottom: 40px; }
+
+.page-home .terminal {
+  border-radius: 3px;
+  margin: 0 auto;
+  margin-top: -200px; }
+  .page-home .terminal img {
+    width: 100%;
+    height: auto; }
 
 body {
   font-family: "Roboto", Arial, sans-serif, -apple-system;

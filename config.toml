@@ -22,9 +22,10 @@ summaryLength = 30
     weight = 2
 
 [params]
+	customCSS = ["/css/custom.css"]
   google_analytics_id=""
-  #homepage_button_link = '/docs'
-  #homepage_button_text = 'Read The Docs'
+  homepage_button_link = '/'
+  homepage_button_text = 'Home'
   #homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
   #homepage_image = '/images/terminal.gif'
 

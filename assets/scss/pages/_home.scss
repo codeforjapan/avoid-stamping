@@ -1,0 +1,25 @@
+.page-home {
+  .title {
+    font-weight: lighter;
+    font-family: $font-family-base;
+  }
+  .content {
+    margin-left:10%;
+    margin-right:10%;
+  }
+  p {
+    margin: 0 auto;
+    font-size: 1.2rem;
+    font-weight: lighter;
+    margin-bottom: 40px;
+  }
+  .terminal {
+    border-radius: 3px;
+    margin: 0 auto;
+    margin-top: -200px;
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+}
