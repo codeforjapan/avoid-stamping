@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://avoid-stamping.code4japan.org/"
 languageCode = "ja_JP"
 title = "押印見直しプロジェクト"
 theme = "whisper"
