@@ -1,5 +1,6 @@
 このサイトでは、主に行政を対象に、押印手続きを見直していく運動を行っています。
-| ⚠️ This repository will be archived in the future, this config will no longer be maintained. Thanks for all the stars, help and brainstorms! |
+
+| ⚠️ This repository has been archived and will no longer be maintained. Thanks for all the stars, help and brainstorms! |
 
 誰でも運動に参加できます。サイトや運動の改善にご意見のある方は、[こちら](https://github.com/codeforjapan/avoid-stamping/issues)からぜひご意見をお寄せください。（GitHubのユーザ登録が必要です。）
 サイトの運営や修正等にご協力頂ける場合、[Code for Japan Slack](https://cfjslackin.herokuapp.com/) の、`#avoid-stamping` チャンネルにぜひご参加ください。
